@@ -8,3 +8,5 @@ Preprocess-2: Background remove tool
 Data split: Strategic data split considering geometric features and data patterns of images (train & validation)
 
 Model: EfficientNetB3, DenseNet, MobileNet
+
+Summary Report: (pdf file)
